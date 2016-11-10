@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hizentra Infusion Guide</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<link type="text/css" rel="stylesheet" href="index.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<style type="text/css">
+    body{
+        padding-top: 70px;
+    }
+</style>
+</head> 
+<body>
+<nav role="navigation" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <a href="#" class="navbar-brand">Hizentra Infusion Guide</a>
+        </div>
+        <!-- Collection of nav links and other content for toggling -->
+        <div id="navbarCollapse" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="#"><a href="#"></a></li>
+                <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="jumbotron">
+    <div class="container">
+        <h1>Hizentra Infusion Guide</h1>
+        <p>Step-by-step instructions for self-administering Hizentra</p>
+    </div>
+</div>
+<div class="container">
+    <p class ="italic">Use this guide only as a supplement to the Hizentra full prescribing information and to personal instruction from your healthcare provider.</p>
+    <h3 class ="color">Important Safety Information</h3>
+    <p>Hizentra treats various forms of primary immunode ciency (PI) in patients age 2 and over.</p>
+    <h5 class = "justify">WARNING: Thrombosis (blood clotting) can occur with immune globulin products, including Hizentra. Risk factors can include: advanced age, prolonged immobilization, a history of blood clotting or hyperviscosity (blood thickness), use of estrogens, installed vascular catheters, and cardiovascular risk factors.</h5>
+    <h5 class = "justify">If you are at high risk of thrombosis, your doctor will prescribe Hizentra at the minimum dose and infusion rate practicable and will monitor you for signs of thrombosis and hyperviscosity. Always drink suf cient  uids before administration.</h5>
+    <p class ="justify">Tell your doctor if you have had a serious reaction to other immune globulin medicines or have been told you also have a de ciency of the immunoglobulin called IgA, as you might not be able to take Hizentra. You should not take Hizentra if you know you have hyperprolinemia (too much proline in your blood).</p>
+    <h5>Infuse Hizentra under your skin only; do not inject into a blood vessel.</h5>
+    <p class ="justify">Allergic reactions can occur with Hizentra. If your doctor suspects you are having a bad allergic reaction or are going into shock, treatment will be discontinued.
+    Immediately tell your doctor or go to the emergency room if you have signs of such a reaction, including hives, trouble breathing, wheezing, dizziness, or fainting.</p>
+    <p class ="justify">Tell your doctor about any side effects that concern you. Immediately report symptoms that could indicate a blood clot, including pain and/or swelling of an arm or leg, with warmth over affected area; discoloration in arm or leg; unexplained shortness of breath; chest pain or discomfort that worsens with deep breathing; unexplained rapid pulse; and numbness or weakness on one side of the body. Your doctor will also monitor symptoms that could indicate hemolysis (destruction of red blood
+    cells), and other potentially serious reactions that have been seen with Ig treatment, including aseptic meningitis syndrome (brain swelling); kidney problems; and transfusion-related acute lung injury.</p>
+    <p class ="justify">The most common drug-related adverse reactions in the clinical trial for Hizentra were swelling, pain, redness, heat or itching at the site of injection; headache; back pain; diarrhea; tiredness; cough; rash; itching; nausea and vomiting.</p>
+    <p class ="justify">Hizentra is made from components of human blood. The risk of transmission of infectious agents, including viruses and, theoretically, the Creutzfeldt-Jakob disease (CJD) agent, cannot be completely eliminated.</p>
+    <p class ="justify">Before being treated with Hizentra, inform your doctor if you are pregnant, nursing or plan to become pregnant. Vaccines (such as measles, mumps and rubella) might
+    not work well if you are using Hizentra. Before receiving any vaccine, tell the healthcare professional you are being treated with Hizentra.</p>
+    <h5>Please see accompanying full prescribing information for Hizentra, including the boxed warning and the patient product information.</h5>
+    <p>You are encouraged to report negative side effects of prescription drugs to the FDA.<br>
+        Visit <a href="www.fda.gov/medwatch">www.fda.gov/medwatch</a>, or call 1-800-FDA-1088.
+    </p>  
+    <h3 class ="color">Read before infusing</h3>
+    <h5>Important notes</h5>
+    <ul>
+      <li>Administer Hizentra only after you have received training and approval from your healthcare provider</li>
+      <li>Before infusing Hizentra:</li>
+        <ul>
+          <li>Read the full prescribing information, patient product information,
+              and any additional information given to you by your healthcare provider</li>
+          <li>Review the contents of your Hizentra Welcome Kit</li>
+          <li>Contact your healthcare provider if you have questions or concerns</li>
+        </ul>
+      <li>Maintain your Hizentra Therapy Journal or MyHizentraTM Infusion Manager app (available through Apple App Store or Google Play) and take it with you every time you see your healthcare provider</li>
+      <li>Keep the Hizentra vials in the original box at room temperature (up to 77°F [25°C]) until you are ready to use them</li>
+      <li>Hizentra has no preservatives; it is important to throw away any unused product remaining in the vial(s)</li>
+    </ul>
+    <h3 class ="color">Read before infusing</h3>
+    <h5>About this guide</h5>
+    <ul>
+      <li>This infusion guide is meant to help you every step of the way in the infusion process. It is helpful as a teaching tool when you are  rst learning the infusion process, but can also serve as a refresher when you become more comfortable</li>
+      <li>Each of the 11 steps is divided into 3 buckets to help you understand where each step  ts in the overall process:</li>
+        <ol>
+          <h4>Get Ready</h4>
+          <li>Gather your supplies</li>
+          <li>Clean surface</li>
+          <li>Sanitize your hands</li>
+          <li>Inspect each vial of Hizentra</li>
+          <h4>Get Set</h4>
+          <li>Prepare syringe</li>
+          <li>Prepare infusion equipment</li>
+          <li>Prepare infusion site(s)</li>
+          <li>Insert subcutaneous needle(s)</li>
+          <h4>Go</h4>
+          <li>Start infusion</li>
+          <li>Record your infusion</li>
+          <li>Complete infusion and clean up</li>
+        </ol>
+        <br>
+      <li>Some steps are simple, while others may take a bit more time – however, they are all important parts of your infusion and should be followed with care</li>
+    </ul>
+
+    <section class="container">
+      <h3 class ="color">Hizentra—Rede ning Freedom and Flexibility</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img1.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+     <p>Available in 1 g (5 mL), 2 g (10 mL), 4 g (20 mL), 10 g (50 mL) vials</p>
+    </div>
+    <div class="col-sm-8">
+     <ul>
+      <h4>SCIg therapy that  ts your life</h4>
+      <li>Hizentra delivers steady IgG levels given daily or up to every 2 weeks (biweekly)</li>
+      <li>Because it is a 20% therapy, Hizentra can be infused in half the volume of 10% products, and may reduce the number of needle sticks needed</li>
+      <li>Hizentra allows you to infuse anytime, anywhere according to your own schedule — it requires no refrigeration</li>
+      <li>In the US clinical trial, Hizentra delivered proven protection against infection (0 SBIs*) and demonstrated tolerability (93% of local reactions were mild)</li>
+      <p class ="italic">* SBIs were de ned as bacterial pneumonia, bacteremia/septicemia, osteomyelitis/septic arthritis, bacterial meningitis, and visceral abscess</p>
+     </ul>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <h3 class ="color">Infusion pumps for Hizentra</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img2.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+    </div>
+    <div class="col-sm-8">
+      <h4>There’s a pump that’s right for you</h4>
+      <p>While CSL Behring does not recommend speci c infusion pumps, there are a number of pumps available to infuse Hizentra.</p><br>
+      <p>The pump in the upper part of the picture is the the Cane Crono® by Intrapump; this was the pump used in the US trial for Hizentra.</p><br>
+      <p>The bottom pump featured is the Freedom 60® by RMS and is the most widely used SCIg pump in the United States.</p><br>
+      <p class ="italic">* SBIs were de ned as bacterial pneumonia, bacteremia/septicemia, osteomyelitis/septic arthritis, bacterial meningitis, and visceral abscess</p>
+     </ul>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+      <h3 class ="color">Step 1. Gather your supplies</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img3.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+    </div>
+    <div class="col-sm-4">
+     <ul>
+      <h4>Generally, you will need:</h4>
+      <li>Hizentra vial(s)</li>
+      <li>Therapy Journal or MyHizentraTM Infusion Manager app</li>
+      <li>Infusion pump</li>
+      <li>Infusion tubing</li>
+      <li>Subcutaneous needle or catheter sets</li>
+      <li>Y-site connectors (if needed)</li>
+      <li>Alcohol wipes</li>
+     </ul>
+    </div>
+    <div class="col-sm-4">
+     <ul>
+      <li>Antiseptic skin preps
+          (if recommended by HCP)</li>
+      <li>Syringes</li>
+      <li>Transfer needles/spikes</li>
+      <li>Gauze and tape, or transparent dressing</li>
+      <li>Sharps container</li>
+      <li>Gloves
+          (if recommended by HCP)</li>
+     </ul>
+    </div>
+  </div>
+</section>
+
+    <section class="container">
+<h3 class ="color">Step 2. Clean surface</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img4.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+    </div>
+    <div class="col-sm-8">
+    <h4>Thoroughly clean a table or other  at surface using alcohol wipes</h4> 
+    </div>
+  </div>
+</section>
+
+   <section class="container">
+<h3 class ="color">Step 3. Sanitize your hands</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img5.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+    </div>
+    <div class="col-sm-8">
+    <h4>Thoroughly wash and dry your hands</h4> 
+      <ul>
+        <li>If you have been told to wear gloves when preparing your infusion, put the gloves on now</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <h3 class ="color">Step 4. Inspect each vial of Hizentra</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img6.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+    </div>
+  <div class="col-sm-8">
+    <h4>Carefully look at the liquid in each vial of Hizentra</h4> 
+      <ul>
+        <li>It should look clear and be pale yellow to light brown</li>
+        <li>Check for particles or color changes</li>
+        <h4>Do not use the vial if:</h4>
+        <li>The liquid looks cloudy, contains particles, or has changed color</li>
+        <li>The protective cap is missing</li>
+        <li>The expiration date on the label has passed</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <h3 class ="color">Step 5. Prepare syringe</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img7.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+    </div>
+  <div class="col-sm-8">
+    <h4>Take the protective cap off the vial</h4> 
+      <ul>
+        <li>Clean the vial stopper with an alcohol wipe; let the stopper dry</li>
+        <li>Attach a transfer needle to the syringe tip</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <h3 class ="color">Step 5. Prepare syringe (continued)</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img8.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+    </div>
+  <div class="col-sm-8">
+    <h4>Transfer Hizentra from the vial to the syringe as follows:</h4> 
+      <ul>
+        <li>Pull out the plunger on the syringe to  ll it with air</li>
+        <ul>
+          <li>The amount of air should be the same as the amount
+              of Hizentra you will transfer from the vial</li>
+          <li>Be careful not to touch the inner portion of the plunger to keep it sterile</li>
+        </ul>
+        <li>Put the Hizentra vial on a  at surface</li>
+        <li>Keeping the vial upright, insert the transfer needle
+into the center of the rubber stopper</li>
+        <li>Check that the tip of the needle is not in the liquid</li>
+        <li>Push the plunger on the syringe down</li>
+        <ul>
+          <li>This will inject the air from the syringe into the airspace of the vial</li>
+        </ul>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <h3 class ="color">Step 5. Prepare syringe (continued)</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img9.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+     <p class ="italic"> If you are using more than 1 vial, your healthcare provider will show you how to  ll the syringes before starting the infusion.</p>
+    </div>
+  <div class="col-sm-8">
+      <ul>
+        <li>Carefully turn the vial and syringe upside down
+without removing the needle from the vial</li>
+        <li>Keeping the needle submerged the entire time, slowly pull back on the plunger to  ll the syringe with Hizentra</li>
+        <li>Take the  lled syringe and needle out of the stopper</li>
+        <li>Carefully take off the needle and throw it away in the Sharps container</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <h3 class ="color">Step 6. Prepare infusion equipment</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img10.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+    </div>
+  <div class="col-sm-8">
+    <h4>Prepare the infusion pump following the manufacturer’s instructions and prime ( ll) the infusion tubing</h4> 
+      <ul>
+        <li>To prime the tubing, connect the syringe  lled with Hizentra to the administration tubing</li>
+        <li>Gently push on the syringe plunger to  ll the tubing with Hizentra. Do not let the medicine reach the
+            tip of the needle</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <h3 class ="color">Step 7. Prepare infusion site(s)</h3>
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="img11.png" class="img-responsive" alt="Cinque Terre" width="300" height="300">
+     <p class ="italic">  During the infusion, do not use more than 4 infusion sites at the same time. Clean the skin at each site with an antiseptic skin prep; let the skin dry.</p>
+    </div>
+  <div class="col-sm-8">
+    <h4>Select an area on your abdomen, thigh, upper arm,
+        or inside of upper leg/hip for the infusion</h4> 
+      <ul>
+        <li>Use a different site from the last time you infused Hizentra</li>
+        <ul>
+          <li>Your healthcare provider will tell you how many infusion sites
+              (that is, sites where the needle is inserted) you need to use</li>
+          <li>Rotate infusion sites</li>
+        </ul>
+        <li>New infusion sites should be at least 1 inch from previous sites</li>
+        <li>Never infuse into areas where the skin is tender, bruised, red or hard</li>
+        <li>Avoid infusing into scars, tattoos or stretch marks</li>
+        <li>If you are using more than one infusion site at the same time, be sure sites are at least 2 inches apart</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class ="container">
+  <h3 class ="color">Step 8. Insert Subcutaneous needle(s)</h3>
+  <div class ="row">
+    <div class ="col-sm-4">
+      <img src="img12.png" class ="img-responsive" alt ="Clinquw Terre" width="300" height="300"><br>
+      <img src="img13.png" class ="img-responsive" alt ="Clinquw Terre" width="300" height="300">
+    </div>
+    <div class ="col-sm-8">
+      <h4>Insert needle(s)</h4>
+      <ul>
+        <li>With 2  ngers, pinch together the skin around the infusion site</li>
+        <ul>
+          <li>For some patients, spreading the skin may also work</li>
+        </ul>
+        <li>Insert the needle under the skin</li>
+      </ul>
+      <h4>Secure needle(s)</h4>
+      <ul>
+        <li>Secure the needle to your skin with sterile gauze or transparent dressing, and tape into place</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class ="container">
+  <h3 class ="color">Step 8. Insert Subcutaneous needle(s) (continued)</h3>
+  <div class ="row">
+    <div class ="col-sm-4">
+      <img src="img14.png" class ="img-responsive" alt ="Clinquw Terre" width="300" height="300">
+    </div>
+    <div class ="col-sm-8">
+      <h4>Make sure you are not injecting Hizentra into a blood vessel</h4>
+      <ul>
+        <li>Hizentra should only be administered subcutaneously (beneath the skin)</li>
+        <li>To test for this, attach a sterile syringe to the end of the administration tubing</li>
+        <li>Pull the plunger back gently</li>
+        <li>If you see any blood in the tubing:</li>
+        <ul>
+          <li>If there are multiple infusion sites, clamp tubing for that site and remove needle. Hizentra should not be infused in the area where you see blood return. Continue infusing at sites without blood return</li>
+          <li>If there is only one infusion site, throw away needle and tubing. Restart the infusion at a different site, using new needle and tubing</li>
+        </ul>
+    </div>
+  </div>
+</section>
+
+<section class ="container">
+  <h3 class ="color">Step 9. Start infusion</h3>
+  <div class ="row">
+    <div class ="col-sm-4">
+      <img src="img15.png" class ="img-responsive" alt ="Clinquw Terre" width="300" height="300">
+      <p class ="italic">The pump featured here is a Freedom60, one of several pumps that can be used for SC infusion</p>
+    </div>
+    <div class ="col-sm-8">
+      <h4>Start your infusion</h4>
+      <ul>
+        <li>Follow the instructions on the infusion pump to connect the administration tubing and set the infusion rate</li>
+        <ul>
+          <li>Your doctor will determine what rate to use for your Hizentra infusion</li>
+        </ul>
+        <li>Turn on the infusion pump</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class ="container">
+  <h3 class ="color">Step 10. Record your infusion</h3>
+  <div class ="row">
+    <div class ="col-sm-4">
+      <img src="img16.png" class ="img-responsive" alt ="Clinquw Terre" width="300" height="300">
+      <p class ="italic">Be sure to tell your prescriber about any problems you have with your infusions. Your prescriber may ask to see your therapy journal or your MyHizentraTM Infusion Manager app, so be sure to take it with you each time you visit the prescriber’s of ce.</p>
+    </div>
+    <div class ="col-sm-8">
+      <h4>Record each infusion in your Hizentra therapy journal
+          Be sure to tell your prescriber about any problems you have with your infusions. Your prescriber may ask to see your
+          or your MyHizentraTM Infusion Manager app</h4>
+        <h5>If using printed therapy journal:</h5>
+        <ul>
+          <li>Peel off the removable part of the label(s)
+from the Hizentra vial(s)</li>
+          <li>Put the label(s) in your Hizentra therapy journal with the date and time of the infusion</li>
+          <li>Also include the exact amount of Hizentra that you infused, and any other relevant notes</li>
+        </ul>
+        <h5>If using app:</h5>
+        <ul>
+          <li>Scan the QR code (square barcode) of each vial</li>
+          <li>Record the date and time, the amount of Hizentra you infused, and any other relevant notes</li>
+        </ul>
+    </div>
+  </div>
+</section>
+
+<section class ="container">
+  <h3 class ="color">Step 10. Record your infusion</h3>
+  <div class ="row">
+    <div class ="col-sm-4">
+      <img src="img17.png" class ="img-responsive" alt ="Clinquw Terre" width="300" height="300">
+    </div>
+    <div class ="col-sm-8">
+      <h4>When all of the Hizentra has been infused:</h4>
+        <ul>
+          <li>Turn off the infusion pump</li>
+          <li>Take off the dressing and take the needle out
+              of the infusion site</li>
+          <li>Hold gauze over the site</li>
+          <li>Discard used vials, even if there is remaining Hizentra, as well as any other disposable supplies, using the Sharps container</li>
+          <li>Clean and store the infusion pump (following the manufacturer’s instructions)</li>
+        </ul>
+    </div>
+  </div>
+</section>
+
+<section class ="container">
+  <h3 class ="color">Any questions?</h3>
+  <div class ="row">
+    <div class ="col-sm-12">
+      <p>Contact your healthcare provider if you have any questions about your condition or the infusion process. For general questions about Hizentra
+          or helpful resources and support, call CSL Behring’s <strong>IgIQ</strong> resource center at <strong>1-877-355-IGIQ (4447) Monday-Friday, 8 AM to 8 PM ET.</strong></p><br>
+      <p>To watch the self-administration video, or for more information, visit us online at <strong><a href="http://www.hizentra.com">Hizentra.com.</a></strong></p><br>
+      <p><strong>Please see Important Safety Information on page 2 and accompanying full prescribing information for Hizentra, including the boxed warning and the patient product information.</strong></p><br>
+      <p>You are encouraged to report negative side effects of prescription drugs to the FDA. Visit <a href="www.fda.gov/medwatch">www.fda.gov/medwatch</a>, or call 1-800-FDA-1088.</P>
+
+    </div>
+  </div>
+</section>
+
+</div>
+</body>
+</html>                                   

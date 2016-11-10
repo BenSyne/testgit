@@ -1,0 +1,29 @@
+.jumbotron {
+	background-image: url(http://www.dio.hu/html/projects/images/carousel_hizentra_727.jpg);
+	background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.5em;
+}
+
+.jumbotront h1{
+	color: white;
+}
+
+p.italic {
+    font-style: italic;
+    font-size: 10px;
+}
+
+h3.color {
+	color: #5A0016;
+}
+
+p.justify {
+	text-align: justify;
+}
+
+h5.justify {
+	text-align: justify;
+}
